@@ -212,6 +212,7 @@ void init()
 
     // carrega as curvas que farao parte do cenario
     CriaCurvas();
+    float teste = 1;
 
     // define is limites da área de desenho
     float d = 15;
