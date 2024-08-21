@@ -13,7 +13,7 @@ using namespace std;
 
 #ifdef WIN32
 #include <windows.h>
-#include <glut.h>
+#include <GL/glut.h>
 #else
 #include <sys/time.h>
 #endif
